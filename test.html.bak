@@ -9,10 +9,8 @@
 <body>
 
 	<center><p>Titre principal</p></center>
-	<p><a href="#P1"></a>paragraphe1</p>
-	<p><a href="#P2"></a>paragraphe2</p>
-	<p><a href=""></a>paragraphe1</p>
-	<p><a href=""></a>paragraphe1</p>
+	<p><a href="#P1">paragraphe1</a></p>
+	<p><a href="#P2">paragraphe2</a></p>
 	
 	
 	
